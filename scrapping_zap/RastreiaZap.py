@@ -65,7 +65,3 @@ class RastreiaZap:
 if __name__ == '__main__':
     run = RastreiaZap()
     retorno = run.start()
-
-
-
-
